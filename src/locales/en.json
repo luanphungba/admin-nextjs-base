@@ -1,0 +1,27 @@
+{
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "LoginForm": {
+    "title": "Welcome back",
+    "subtitle": "Login with your Apple or Google account",
+    "appleButton": "Login with Apple",
+    "googleButton": "Login with Google",
+    "dividerText": "Or continue with",
+    "emailLabel": "Email",
+    "emailPlaceholder": "m@example.com",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot your password?",
+    "loginButton": "Login",
+    "noAccount": "Don't have an account?",
+    "signUpLink": "Sign up",
+    "termsText": "By clicking continue, you agree to our",
+    "termsLink": "Terms of Service",
+    "andText": "and",
+    "privacyLink": "Privacy Policy",
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "generic": "Something went wrong. Please try again."
+    }
+  }
+}
